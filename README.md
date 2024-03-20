@@ -1,7 +1,23 @@
 ### Hi there 👋 Neuu here
 
+Welcome to my GitHub profile! 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## About Me
+I am passionate about software development and love to explore new technologies. Currently, I excel at Java and I'm actively learning Node.js and Flutter to expand my skill set.
+
+## What I Do
+- 💻 Experienced in Java development.
+- 🌱 Currently learning Node.js and Flutter.
+- 📚 Constantly exploring new concepts and tools in software development.
+
+## Get in Touch
+Feel free to reach out if you have any questions, suggestions, or just want to chat! You can connect with me via [LinkedIn](https://www.linkedin.com/in/niwesh-waiba/) or [Instagram](https://www.instagram.com/niwesh_waiba/).
+
+Let's code and learn together! 😊
+
 <!--
 **Niwesh-waiba/Niwesh-waiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
