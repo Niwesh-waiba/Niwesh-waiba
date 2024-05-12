@@ -13,7 +13,7 @@ I am passionate about software development and love to explore new technologies.
 
 ## What I Do
 - 💻 Experienced in Java development.
-- 🌱 Currently learning Node.js and Flutter.
+- 🌱 Currently learning Flutter and firebase.
 - 📚 Constantly exploring new concepts and tools in software development.
 
 
